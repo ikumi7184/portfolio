@@ -32,7 +32,7 @@ function App() {
             <button className='text-white bg-green-500 py-2 border-0 rounded text-lg hover:bg-green-600 duration-300'>Contact Me</button>
           </div>
           <div className='md:w-1/2 lg:max-w-lg'>
-            <img src="../public/img/myPicture.png" alt="" />
+            <img src="./public/img/myPicture.png" alt="" />
           </div>
         </div>
       </section>
@@ -149,7 +149,7 @@ function App() {
         <div className="container px-5 py-24 mx-auto flex flex-wrap">
           {/* leftside */}
           <div className='mb-10 lg:mb-0 w-full lg:w-1/2 flex justify-center'>
-            <img src="../public/img/pc.jpg" alt="" className='rounded' />
+            <img src="./public/img/pc.jpg" alt="" className='rounded' />
           </div>
           {/* rightside */}
           <div className="lg:pl-12 lg:py-6 w-full lg:w-1/2">
