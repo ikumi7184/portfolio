@@ -32,7 +32,7 @@ function App() {
             <button className='text-white bg-green-500 py-2 border-0 rounded text-lg hover:bg-green-600 duration-300'>Contact Me</button>
           </div>
           <div className='md:w-1/2 lg:max-w-lg'>
-            <img src="./public/img/myPicture.png" alt="" />
+            <img src="../public/img/myPicture.png" alt="" />
           </div>
         </div>
       </section>
